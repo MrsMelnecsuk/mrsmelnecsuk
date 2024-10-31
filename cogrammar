@@ -1,0 +1,4 @@
+FirstName = input("Please enter your first name:")
+LastName = input("Please enter your last name")
+EmailAddress = input("Please enter your email address")
+print("Hi"+" "+ FirstName +"! We will be contacting you shortly at" + " " + EmailAddress)
